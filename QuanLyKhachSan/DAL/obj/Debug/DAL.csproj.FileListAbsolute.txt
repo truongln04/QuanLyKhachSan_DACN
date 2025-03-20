@@ -1,0 +1,90 @@
+C:\Users\VHC\Desktop\Mô HÌNH 3 LỚP\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\VHC\Desktop\Mô HÌNH 3 LỚP\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\VHC\Desktop\Mô HÌNH 3 LỚP\DAL\bin\Debug\DAL.dll
+C:\Users\VHC\Desktop\Mô HÌNH 3 LỚP\DAL\bin\Debug\DAL.pdb
+C:\Users\VHC\Desktop\Mô HÌNH 3 LỚP\DAL\bin\Debug\DTO.dll
+C:\Users\VHC\Desktop\Mô HÌNH 3 LỚP\DAL\bin\Debug\DTO.pdb
+C:\Users\VHC\Desktop\Mô HÌNH 3 LỚP\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\VHC\Desktop\Mô HÌNH 3 LỚP\DAL\obj\Debug\DAL.dll
+C:\Users\VHC\Desktop\Mô HÌNH 3 LỚP\DAL\obj\Debug\DAL.pdb
+C:\Users\VHC\Desktop\BTL-QLKS\Mô HÌNH 3 LỚP\DAL\bin\Debug\DAL.dll
+C:\Users\VHC\Desktop\BTL-QLKS\Mô HÌNH 3 LỚP\DAL\bin\Debug\DAL.pdb
+C:\Users\VHC\Desktop\BTL-QLKS\Mô HÌNH 3 LỚP\DAL\bin\Debug\DTO.dll
+C:\Users\VHC\Desktop\BTL-QLKS\Mô HÌNH 3 LỚP\DAL\bin\Debug\DTO.pdb
+C:\Users\VHC\Desktop\BTL-QLKS\Mô HÌNH 3 LỚP\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\VHC\Desktop\BTL-QLKS\Mô HÌNH 3 LỚP\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\VHC\Desktop\BTL-QLKS\Mô HÌNH 3 LỚP\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\VHC\Desktop\BTL-QLKS\Mô HÌNH 3 LỚP\DAL\obj\Debug\DAL.dll
+C:\Users\VHC\Desktop\BTL-QLKS\Mô HÌNH 3 LỚP\DAL\obj\Debug\DAL.pdb
+D:\Mô HÌNH 3 LỚP\DAL\bin\Debug\DAL.dll
+D:\Mô HÌNH 3 LỚP\DAL\bin\Debug\DAL.pdb
+D:\Mô HÌNH 3 LỚP\DAL\bin\Debug\DTO.dll
+D:\Mô HÌNH 3 LỚP\DAL\bin\Debug\Guna.UI2.dll
+D:\Mô HÌNH 3 LỚP\DAL\bin\Debug\DTO.pdb
+D:\Mô HÌNH 3 LỚP\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Mô HÌNH 3 LỚP\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Mô HÌNH 3 LỚP\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Mô HÌNH 3 LỚP\DAL\obj\Debug\DAL.dll
+D:\Mô HÌNH 3 LỚP\DAL\obj\Debug\DAL.pdb
+D:\Mô HÌNH 3 LỚP\DAL\bin\Debug\MetroFramework.dll
+D:\Mô HÌNH 3 LỚP\DAL\bin\Debug\MetroFramework.Fonts.dll
+D:\QuanLyKhachSan\DAL\bin\Debug\DAL.dll
+D:\QuanLyKhachSan\DAL\bin\Debug\DAL.pdb
+D:\QuanLyKhachSan\DAL\bin\Debug\DTO.dll
+D:\QuanLyKhachSan\DAL\bin\Debug\Guna.UI2.dll
+D:\QuanLyKhachSan\DAL\bin\Debug\MetroFramework.dll
+D:\QuanLyKhachSan\DAL\bin\Debug\MetroFramework.Fonts.dll
+D:\QuanLyKhachSan\DAL\bin\Debug\DTO.pdb
+D:\QuanLyKhachSan\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\QuanLyKhachSan\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\QuanLyKhachSan\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\QuanLyKhachSan\DAL\obj\Debug\DAL.dll
+D:\QuanLyKhachSan\DAL\obj\Debug\DAL.pdb
+D:\QLkhachsanC#\QuanLyKhachSan\QuanLyKhachSan\DAL\bin\Debug\DAL.dll
+D:\QLkhachsanC#\QuanLyKhachSan\QuanLyKhachSan\DAL\bin\Debug\DAL.pdb
+D:\QLkhachsanC#\QuanLyKhachSan\QuanLyKhachSan\DAL\bin\Debug\DTO.dll
+D:\QLkhachsanC#\QuanLyKhachSan\QuanLyKhachSan\DAL\bin\Debug\Guna.UI2.dll
+D:\QLkhachsanC#\QuanLyKhachSan\QuanLyKhachSan\DAL\bin\Debug\MetroFramework.dll
+D:\QLkhachsanC#\QuanLyKhachSan\QuanLyKhachSan\DAL\bin\Debug\MetroFramework.Fonts.dll
+D:\QLkhachsanC#\QuanLyKhachSan\QuanLyKhachSan\DAL\bin\Debug\DTO.pdb
+D:\QLkhachsanC#\QuanLyKhachSan\QuanLyKhachSan\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\QLkhachsanC#\QuanLyKhachSan\QuanLyKhachSan\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\QLkhachsanC#\QuanLyKhachSan\QuanLyKhachSan\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\QLkhachsanC#\QuanLyKhachSan\QuanLyKhachSan\DAL\obj\Debug\DAL.dll
+D:\QLkhachsanC#\QuanLyKhachSan\QuanLyKhachSan\DAL\obj\Debug\DAL.pdb
+D:\DoAnCN\QLkhachsanC#\QuanLyKhachSan\QuanLyKhachSan\DAL\bin\Debug\DAL.dll
+D:\DoAnCN\QLkhachsanC#\QuanLyKhachSan\QuanLyKhachSan\DAL\bin\Debug\DAL.pdb
+D:\DoAnCN\QLkhachsanC#\QuanLyKhachSan\QuanLyKhachSan\DAL\bin\Debug\DTO.dll
+D:\DoAnCN\QLkhachsanC#\QuanLyKhachSan\QuanLyKhachSan\DAL\bin\Debug\Guna.UI2.dll
+D:\DoAnCN\QLkhachsanC#\QuanLyKhachSan\QuanLyKhachSan\DAL\bin\Debug\MetroFramework.dll
+D:\DoAnCN\QLkhachsanC#\QuanLyKhachSan\QuanLyKhachSan\DAL\bin\Debug\MetroFramework.Fonts.dll
+D:\DoAnCN\QLkhachsanC#\QuanLyKhachSan\QuanLyKhachSan\DAL\bin\Debug\DTO.pdb
+D:\DoAnCN\QLkhachsanC#\QuanLyKhachSan\QuanLyKhachSan\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\DoAnCN\QLkhachsanC#\QuanLyKhachSan\QuanLyKhachSan\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\DoAnCN\QLkhachsanC#\QuanLyKhachSan\QuanLyKhachSan\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\DoAnCN\QLkhachsanC#\QuanLyKhachSan\QuanLyKhachSan\DAL\obj\Debug\DAL.dll
+D:\DoAnCN\QLkhachsanC#\QuanLyKhachSan\QuanLyKhachSan\DAL\obj\Debug\DAL.pdb
+D:\DoAnCN\QLkhachsanC# - Copy\QuanLyKhachSan\QuanLyKhachSan\DAL\bin\Debug\DAL.dll
+D:\DoAnCN\QLkhachsanC# - Copy\QuanLyKhachSan\QuanLyKhachSan\DAL\bin\Debug\DAL.pdb
+D:\DoAnCN\QLkhachsanC# - Copy\QuanLyKhachSan\QuanLyKhachSan\DAL\bin\Debug\DTO.dll
+D:\DoAnCN\QLkhachsanC# - Copy\QuanLyKhachSan\QuanLyKhachSan\DAL\bin\Debug\Guna.UI2.dll
+D:\DoAnCN\QLkhachsanC# - Copy\QuanLyKhachSan\QuanLyKhachSan\DAL\bin\Debug\MetroFramework.dll
+D:\DoAnCN\QLkhachsanC# - Copy\QuanLyKhachSan\QuanLyKhachSan\DAL\bin\Debug\MetroFramework.Fonts.dll
+D:\DoAnCN\QLkhachsanC# - Copy\QuanLyKhachSan\QuanLyKhachSan\DAL\bin\Debug\DTO.pdb
+D:\DoAnCN\QLkhachsanC# - Copy\QuanLyKhachSan\QuanLyKhachSan\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\DoAnCN\QLkhachsanC# - Copy\QuanLyKhachSan\QuanLyKhachSan\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\DoAnCN\QLkhachsanC# - Copy\QuanLyKhachSan\QuanLyKhachSan\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\DoAnCN\QLkhachsanC# - Copy\QuanLyKhachSan\QuanLyKhachSan\DAL\obj\Debug\DAL.dll
+D:\DoAnCN\QLkhachsanC# - Copy\QuanLyKhachSan\QuanLyKhachSan\DAL\obj\Debug\DAL.pdb
+C:\QuanLyKhachSan_DACN\QuanLyKhachSan\DAL\bin\Debug\DAL.dll
+C:\QuanLyKhachSan_DACN\QuanLyKhachSan\DAL\bin\Debug\DAL.pdb
+C:\QuanLyKhachSan_DACN\QuanLyKhachSan\DAL\bin\Debug\DTO.dll
+C:\QuanLyKhachSan_DACN\QuanLyKhachSan\DAL\bin\Debug\Guna.UI2.dll
+C:\QuanLyKhachSan_DACN\QuanLyKhachSan\DAL\bin\Debug\MetroFramework.dll
+C:\QuanLyKhachSan_DACN\QuanLyKhachSan\DAL\bin\Debug\MetroFramework.Fonts.dll
+C:\QuanLyKhachSan_DACN\QuanLyKhachSan\DAL\bin\Debug\DTO.pdb
+C:\QuanLyKhachSan_DACN\QuanLyKhachSan\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\QuanLyKhachSan_DACN\QuanLyKhachSan\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\QuanLyKhachSan_DACN\QuanLyKhachSan\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\QuanLyKhachSan_DACN\QuanLyKhachSan\DAL\obj\Debug\DAL.dll
+C:\QuanLyKhachSan_DACN\QuanLyKhachSan\DAL\obj\Debug\DAL.pdb
