@@ -1,3 +1,3 @@
-admin: truongln
+username: truongln
 
 password: 123456
